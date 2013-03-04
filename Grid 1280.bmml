@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1357" measuredH="1024" mockupW="1357" mockupH="1024">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="77" y="0" w="1280" h="1024" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Indicamos.com%20-%20Cadastro%20de%20Profissional%0Ahttp%3A//www.indicamos.com/cadstro-profissional.aspx</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::StickyNote" x="0" y="0" w="306" h="60" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Browser%20Window%20-%20width%3A%201280px%3B%0ACollum%20-%20width%3A%20120px%3B%0AMargin%20-%20top%2C%20bottom%3A%200%3B%20left%2C%20right%3A%204px%3B%0ATotal%20area%201272px%3B</text>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::Component" x="81" y="75" w="1272" h="92" measuredW="1272" measuredH="92" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="120" h="92"/>
+        <override controlID="1" x="40" y="33" w="41" h="28"/>
+        <override controlID="2" x="128" y="0" w="120" h="92"/>
+        <override controlID="3" x="168" y="33" w="41" h="28"/>
+        <override controlID="4" x="256" y="0" w="120" h="92"/>
+        <override controlID="5" x="296" y="33" w="41" h="28"/>
+        <override controlID="6" x="384" y="0" w="120" h="92"/>
+        <override controlID="7" x="424" y="33" w="41" h="28"/>
+        <override controlID="8" x="512" y="0" w="120" h="92"/>
+        <override controlID="9" x="552" y="33" w="41" h="28"/>
+        <override controlID="10" x="640" y="0" w="120" h="92"/>
+        <override controlID="11" x="680" y="33" w="41" h="28"/>
+        <override controlID="12" x="768" y="0" w="120" h="92"/>
+        <override controlID="13" x="808" y="33" w="41" h="28"/>
+        <override controlID="14" x="896" y="0" w="120" h="92"/>
+        <override controlID="15" x="936" y="33" w="41" h="28"/>
+        <override controlID="16" x="1024" y="0" w="120" h="92"/>
+        <override controlID="17" x="1064" y="33" w="41" h="28"/>
+        <override controlID="18" x="1152" y="0" w="120" h="92"/>
+        <override controlID="19" x="1192" y="33" w="41" h="28"/>
+        <src>./assets/symbols.bmml#Grid</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
